@@ -9,4 +9,9 @@ public class Sample {
 	  return i;
   }
   
+
+	public static void(String CharlieIs){
+	
+		System.out.println("Really Chip!");
+	}
 }
