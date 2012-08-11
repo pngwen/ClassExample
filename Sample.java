@@ -9,4 +9,10 @@ public class Sample {
 	
 		System.out.println("Really Chip!");
 	}
+
+
+   public static void(){
+	system.out.println("Hello from Shelli");
+   }
+
 }
